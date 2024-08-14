@@ -5413,6 +5413,8 @@ freeDatabase.template_line_piercing = {
         }
     }
 
+    // DO NOT REMOVE ME
+    return freeDatabase
 }
 
 export { freeDatabase }
